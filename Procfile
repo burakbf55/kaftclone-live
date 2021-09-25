@@ -1,0 +1,1 @@
+web: gunicorn kaft_clone.wsgi
