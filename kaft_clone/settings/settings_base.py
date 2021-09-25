@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'page',
     'product',
 ]
-django_heroku.settings(locals(),staticfiles=False)
+django_heroku.settings(locals())
 
 
 MIDDLEWARE = [
