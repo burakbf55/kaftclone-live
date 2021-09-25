@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '3jt1c)iasg-lt$z_nt*a5a!l&4d5idt(g-8bumxnk%axf)x=#s'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['kaftclone-project.herokuapp.com', '127.0.0.1']
 
